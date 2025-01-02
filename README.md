@@ -1,1 +1,5 @@
 # typescript-tutorials
+
+Hi there, this is my attempt at learning Typescript, following the structure of the W3 schools lessons. Instead of just following along with its quizzes, I decided to attempt to write some of my own katas to get used tho how TypeSCript works on top of basic JavaScript knowledge I already have. It's basically me writing my own katas, followed by using Jest Tests to confirm the types actually enable me to actually send and receive specific types of primitive and non primitive data.
+
+While doing the tests, I was particularly impressed by Jests ability to recognise that functions required certain tests. So, unlike JavaScript Jest testing, I had to specifically write code so that it could take any types of primitive data, and then create functions and conditional logic to turn it into other types of data. I can imagine this is common practice for filtering different pieces of information in front and backend via util functions to help render information, particularly information being posted or patched when using restful APIs.
