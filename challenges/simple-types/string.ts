@@ -1,4 +1,5 @@
 function nameStats(firstName: string, lastName: string) {
-  return `The person's name is ${firstName} ${lastName}.`;
+  const fullName = `${firstName} ${lastName}`;
+  return fullName;
 }
 export { nameStats };

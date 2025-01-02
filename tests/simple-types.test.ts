@@ -28,7 +28,7 @@ describe("String Type Challenges", () => {
     const firstName = "Craig";
     const lastName = "Robinson";
     const actual = nameStats(firstName, lastName);
-    expect(actual).toBe("The person's name is Craig Robinson.");
+    expect(actual).toBe("Craig Robinson");
   });
 });
 
